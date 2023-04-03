@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/EllesTech/static/css/main.93bc727a.css",
+    "main.js": "/EllesTech/static/js/main.e565f5d4.js",
+    "static/js/787.abcde34b.chunk.js": "/EllesTech/static/js/787.abcde34b.chunk.js",
+    "static/media/Actualités.png": "/EllesTech/static/media/Actualités.ea00a6ded69162726715.png",
+    "static/media/formation.png": "/EllesTech/static/media/formation.9b1c656f18de678d5517.png",
+    "static/media/Sondage.png": "/EllesTech/static/media/Sondage.f46057a08d3dab9b2660.png",
+    "static/media/Séminaire.png": "/EllesTech/static/media/Séminaire.1cc11de7e2a19420f162.png",
+    "static/media/unnamed.png": "/EllesTech/static/media/unnamed.28b3bd2e902a91b49782.png",
+    "static/media/dnum.png": "/EllesTech/static/media/dnum.d0c8116b63035d5c610a.png",
+    "index.html": "/EllesTech/index.html",
+    "main.93bc727a.css.map": "/EllesTech/static/css/main.93bc727a.css.map",
+    "main.e565f5d4.js.map": "/EllesTech/static/js/main.e565f5d4.js.map",
+    "787.abcde34b.chunk.js.map": "/EllesTech/static/js/787.abcde34b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93bc727a.css",
+    "static/js/main.e565f5d4.js"
+  ]
+}
